@@ -1,0 +1,19 @@
+#logo {
+    height: 80px;
+    width: 80px;
+} 
+h1{
+    font-size: 80px;
+}
+table, th, td {
+  border: 1px solid;
+}
+
+td {
+  text-align: center;
+}
+
+table {
+    width: 50%;
+  border-collapse: collapse;
+}
